@@ -16,17 +16,17 @@ export interface SignatureData {
 }
 
 export const INITIAL_DATA: SignatureData = {
-  fullName: "Alex Rivera",
-  jobTitle: "Systems Architect",
-  email: "alex@controlplusa.com",
+  fullName: "Monish Dhaga",
+  jobTitle: "CO-FOUNDER",
+  email: "team@bycontrolplusa.co.in",
   phone: "+1 (888) CTRL-ALT",
-  website: "www.controlplusa.com",
-  address: "San Francisco, CA",
-  linkedin: "https://linkedin.com/company/controlplusa",
-  twitter: "https://twitter.com/controlplusa",
-  instagram: "https://instagram.com/controlplusa",
+  website: "www.bycontrolplusa.co.in",
+  address: "1600 Amphitheatre Parkway, Mountain View, CA 94043, USA",
+  linkedin: "https://linkedin.com/company/bycontrolplusa",
+  twitter: "https://twitter.com/bycontrolplusa",
+  instagram: "https://instagram.com/bycontrolplusa",
   connectUrl: "https://controlplusa.com/contact",
-  logoUrl: "https://i.ibb.co/LdpS7M4/control-logo.png",
-  tagline: "Systems that just work.",
+  logoUrl: "https://raw.githubusercontent.com/dhagamonish00/assets/refs/heads/main/logo%20full.png",
+  tagline: "less chaos, more clarity",
   companyName: "ControlplusA"
 };
